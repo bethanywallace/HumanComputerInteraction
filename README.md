@@ -1,0 +1,1 @@
+The aim of this project was to understand the concepts behind app creation. A conceptual design was made for an app which would help users manage their anxiety after the COVID-19 pandemic. Two designs were then created for this app and surveyed against a group of participants. A final design was then created based from the survey feedback.
